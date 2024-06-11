@@ -1,0 +1,37 @@
+{
+  "animation_count": 0,
+  "armature_count": 0,
+  "edge_count": 4517,
+  "file_size": 185603,
+  "lamp_count": 1,
+  "linked_files": [
+    "/home/aphe/Renderer/rendering_ob/TEST_SHAPES/00017402/1a68fc8877b847c6834ea29a7e65de7a/models/material_0.png",
+    "/home/aphe/Renderer/rendering_ob/TEST_SHAPES/00017402/1a68fc8877b847c6834ea29a7e65de7a/models/material_3.png",
+    "/home/aphe/Renderer/rendering_ob/TEST_SHAPES/00017402/1a68fc8877b847c6834ea29a7e65de7a/models/material_1.png",
+    "/home/aphe/Renderer/rendering_ob/TEST_SHAPES/00017402/1a68fc8877b847c6834ea29a7e65de7a/models/material_2.png"
+  ],
+  "material_count": 4,
+  "mesh_count": 4,
+  "missing_textures": {
+    "count": 0,
+    "file_path_to_color": {},
+    "files": []
+  },
+  "object_count": 6,
+  "poly_count": 2784,
+  "random_color": null,
+  "scene_size": {
+    "bbox_max": [
+      4.095141410827637,
+      3.7378695011138916,
+      10.012165069580078
+    ],
+    "bbox_min": [
+      -3.7986748218536377,
+      -4.153744220733643,
+      -0.002585741225630045
+    ]
+  },
+  "shape_key_count": 0,
+  "vert_count": 1746
+}
