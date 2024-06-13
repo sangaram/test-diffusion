@@ -1,0 +1,32 @@
+{
+  "animation_count": 0,
+  "armature_count": 0,
+  "edge_count": 3525,
+  "file_size": 854760,
+  "lamp_count": 1,
+  "linked_files": [],
+  "material_count": 1,
+  "mesh_count": 1,
+  "missing_textures": {
+    "count": 0,
+    "file_path_to_color": {},
+    "files": []
+  },
+  "object_count": 7,
+  "poly_count": 2073,
+  "random_color": null,
+  "scene_size": {
+    "bbox_max": [
+      1.1282505989074707,
+      1.1017990112304688,
+      5.736927509307861
+    ],
+    "bbox_min": [
+      -0.985882043838501,
+      -1.0123344659805298,
+      -0.0015504363691434264
+    ]
+  },
+  "shape_key_count": 0,
+  "vert_count": 1453
+}
